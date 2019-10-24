@@ -1,6 +1,6 @@
 ### Windows Explorer tools
 ---
-Two scripts I made to automate repetitive workflow tasks.
+Two scripts I made to automate repetitive workflow tasks, such as copying and pasting from multiple directories.
 
 #### 1. CopyFilesFromFolders
 Copies and renames files from multiple folders. Useful for compiling multiple documents, such as photos placed into folders sorted by date. First prompts the user to select the parent folder.
