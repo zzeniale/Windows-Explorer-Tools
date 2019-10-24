@@ -1,5 +1,8 @@
 """
-Copies files from many folders
+
+Creates a list of sequentially named folders
+
+
 """
 import os
 import tkinter as tk
