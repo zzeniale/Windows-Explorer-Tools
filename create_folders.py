@@ -1,8 +1,8 @@
 """
+Creates a list of sequentially named folders.
 
-Creates a list of sequentially named folders
-
-
+Prompts the user to select a destionation folder under which to create sub-folders,
+as well as the number of sub-folders to create and the suffixes for the folder names.
 """
 import os
 import tkinter as tk

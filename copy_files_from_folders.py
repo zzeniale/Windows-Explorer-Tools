@@ -1,8 +1,9 @@
 """
+Copies files from many folders.
 
-Copies files from many folders
-
-
+Prompts the user for the source directory containing a set of folders, then 
+copies out the last image from each folder. (This was used for a particular
+project).
 """
 import os
 import shutil
